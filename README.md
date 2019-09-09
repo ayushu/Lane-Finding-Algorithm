@@ -17,7 +17,7 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./writeup_images/undistorted.png "Undistorted"
+[image1]: ./writeup_images/Undistorted.png "Undistorted"
 [image2]: ./test_images/test1.jpg "Test Image Distorted"
 [image3]: ./writeup_images/test1_undistorted.jpg "Test Image Undistorted"
 [image4]: ./writeup_images/binary_image.png "Binary Image"
