@@ -132,7 +132,9 @@ In the final step of the pipeline, found in cells 21 - 23, the lane-line points 
 
 ### 1. Provide a link to your final video output.  Your pipeline should perform reasonably well on the entire project video (wobbly lines are ok but no catastrophic failures that would cause the car to drive off the road!).
 
-Here's a [link to my video result](./videos_output/project_video.mp4)
+Here's the video:
+
+[![Output Video](http://img.youtube.com/vi/https://youtu.be/Nmcf_yByfRI/0.jpg)](http://www.youtube.com/watch?v=https://youtu.be/Nmcf_yByfRI)
 
 ---
 
