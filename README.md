@@ -134,7 +134,7 @@ In the final step of the pipeline, found in cells 21 - 23, the lane-line points 
 
 Here's the video:
 
-[![Output Video](http://img.youtube.com/vi/https://youtu.be/Nmcf_yByfRI/0.jpg)](http://www.youtube.com/watch?v=https://youtu.be/Nmcf_yByfRI)
+[![Output Video](http://img.youtube.com/vi/Nmcf_yByfRI/0.jpg)](http://www.youtube.com/watch?v=Nmcf_yByfRI)
 
 ---
 
